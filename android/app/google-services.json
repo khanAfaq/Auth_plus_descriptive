@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105553799574",
+    "project_id": "first-c3de5",
+    "storage_bucket": "first-c3de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105553799574:android:1f5adcb0809ef5c21595b7",
+        "android_client_info": {
+          "package_name": "com.example.firee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105553799574-veo8uhvjsmen77j9rvljnumh3g4uupjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-d1qFWUh73GkD8hTZQd96zmkgWfw1yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105553799574-veo8uhvjsmen77j9rvljnumh3g4uupjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
